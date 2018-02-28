@@ -1,1 +1,3 @@
 # snake
+
+Author: Murunova Vasya
